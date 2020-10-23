@@ -1,0 +1,9 @@
+{
+  "name": "api-music-mariano-monorepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:macnelus/api-music-mariano-monorepo.git",
+  "author": "Macnelus <macnelus@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
